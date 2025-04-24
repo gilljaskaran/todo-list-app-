@@ -18,7 +18,7 @@ jobs:
           password: ${{ secrets.DOCKER_PASSWORD }}
 
       - name: Build Docker image
-        run: docker build -t your-dockerhub-username/todo-list-app .
+        run: docker build -t jaskaran321/todo-list-app .
 
       - name: Push image to Docker Hub
-        run: docker push your-dockerhub-username/todo-list-app
+        run: docker push jaskaran321/todo-list-app
