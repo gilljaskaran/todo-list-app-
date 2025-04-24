@@ -1,6 +1,6 @@
 # To-Do List App Readme
 
-**Developed by: Azim Baji Krishna**
+**Developed by: jaskaran**
 
 ## Introduction
 
